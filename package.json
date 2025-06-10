@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.8",
     "dayjs": "^1.11.13",
+    "i": "^0.3.7",
+    "npm": "^11.4.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-tailwindcss-datepicker": "^2.0.0"
